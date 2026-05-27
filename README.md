@@ -34,5 +34,5 @@ Backend engineer and architect with 10+ years building .NET systems — HR tech 
 
 ## Find me
 
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/johan-wilander-1a2045113/))
+- [LinkedIn](https://www.linkedin.com/in/johan-wilander-1a2045113/)
 - [Email](mailto:wilander.johan@gmail.com)
