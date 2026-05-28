@@ -1,6 +1,6 @@
 # Johan Wilander
 
-Backend engineer, architect and engineering manager with 10+ years building .NET systems — HR tech SaaS, microservices, cloud infrastructure, and the occasional tool I build just because I had to. Currently also leading an engineering team at MedHelp Care.
+Backend engineer, architect and engineering manager with 8+ years building .NET systems — HR tech SaaS, microservices, cloud infrastructure, and the occasional tool I build just because I had to. Currently also leading an engineering team at MedHelp Care.
 
 ---
 
