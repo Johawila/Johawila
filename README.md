@@ -32,7 +32,7 @@ Backend engineer and engineering manager at **[MedHelp Care](https://www.medhelp
 
 ## Side projects
 
-> macOS apps and personal tools — built because something was missing, not to be on a portfolio.
+> Personal tools — built because something was missing or just because I wanted to.
 
 **🧠 Hivemind** — My personal PKM: todos, notes, and active projects in one place, wired up exactly how I think.
 
