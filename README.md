@@ -2,6 +2,8 @@
 
 Backend engineer · Engineering manager · Builder of things that didn't exist yet — and things that already do.
 
+**[wilander.dev](https://wilander.dev)**
+
 ---
 
 ## Day job
@@ -44,5 +46,6 @@ Backend engineer and engineering manager at **[MedHelp Care](https://www.medhelp
 
 ## Find me
 
+[![Website](https://img.shields.io/badge/wilander.dev-%231F3BE0?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://wilander.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Johan_Wilander-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-wilander-1a2045113/)
 [![Email](https://img.shields.io/badge/Email-wilander.johan@gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wilander.johan@gmail.com)
