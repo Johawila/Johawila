@@ -8,7 +8,7 @@ Backend engineer · Engineering manager · Builder of things that didn't exist y
 
 ## Day job
 
-Backend engineer and engineering manager at **[MedHelp Care](https://www.medhelpcare.se)** — 8+ years building .NET systems across HR tech SaaS, microservices, cloud infrastructure, and distributed architectures. Currently leading an engineering team while staying hands-on.
+Backend engineer and engineering manager at **[MedHelp Care](https://www.medhelpcare.se)** — building .NET systems since 2016, across HR tech SaaS, microservices, cloud infrastructure, and distributed architectures. Currently leading an engineering team while staying hands-on.
 
 **What that looks like in practice:**
 
